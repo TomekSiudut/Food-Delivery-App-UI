@@ -60,7 +60,7 @@ final List<Restaurant> restaurants = [
 
 // User
 final currentUser = User(
-  name: 'Rebecca',
+  name: 'Thomas',
   orders: [
     Order(
       date: 'Nov 10, 2019',
