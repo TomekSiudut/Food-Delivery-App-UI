@@ -83,7 +83,7 @@ class _HomeScreenState extends State<HomeScreen> {
           actions: [
             FlatButton(
                 onPressed: () {},
-                child: Text("Card (${currentUser.cart.length})", style: TextStyle(color: Colors.white, fontSize: 15.0)))
+                child: Text("Cart (${currentUser.cart.length})", style: TextStyle(color: Colors.white, fontSize: 15.0)))
           ],
           centerTitle: true,
         ),
